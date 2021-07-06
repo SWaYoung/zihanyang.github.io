@@ -1,0 +1,13 @@
+---
+---
+$primary: #333333;
+// $info: #981430;
+// $pagination-current-background-color: $info;
+// $pagination-current-border-color: $info;
+
+
+// Import Main CSS file from theme
+@import "main";
+.navbar {
+    background-color: hsla(0, 0%, 100%, 0.75);
+    }
