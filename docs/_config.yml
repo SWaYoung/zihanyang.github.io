@@ -17,9 +17,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+lang: en
 title: Sean's Blog
-email: your-email@example.com
+email: zihan_yang_1996@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -34,6 +34,10 @@ github_username:  jekyll
 remote_theme: chrisrhymes/bulma-clean-theme
 # theme: bulma-clean-theme
 fixed_navbar: top
+
+paginate: 5
+paginate_path: "/blog/page:num" 
+
 plugins:
   - jekyll-feed
 
