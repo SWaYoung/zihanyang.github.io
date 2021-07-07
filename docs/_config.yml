@@ -21,9 +21,7 @@ lang: en
 title: Sean's Blog
 email: zihan_yang_1996@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog under construct
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: GFM
@@ -37,6 +35,8 @@ fixed_navbar: top
 
 paginate: 5
 paginate_path: "/blog/page:num" 
+
+google_analytics: UA-278360849
 
 plugins:
   - jekyll-feed
@@ -60,3 +60,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
