@@ -36,7 +36,7 @@ fixed_navbar: top
 paginate: 5
 paginate_path: "/blog/page:num" 
 
-google_analytics: UA-278360849
+google_analytics: G-V3TMZGL3QF
 
 plugins:
   - jekyll-feed
