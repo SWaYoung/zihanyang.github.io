@@ -7,7 +7,7 @@ permalink: /about/
 # **Zihan Yang**
 An AML developer at Scotiabank
 
-## WORK EXPERIENCE
+# **WORK EXPERIENCE**
 
 ### SCOTIABANK
 
@@ -49,12 +49,12 @@ _SEPTEMBER 2018 - DECEMBER 2018_
 - Published a peer-reviewed paper as the first author: "Unsupervised Neural Network for Modulation Format Discrimination and Identification". (DOI: 10.1109/ACCESS.2019.2916806)
 
 
-## Skills
+# **Skills**
 
 Technical: `Python` `C++` `C#` `SQL` `TensorFlow` `Machine Learning` `Deep Learning` `Reinforcement Learning`
 
 
-## Education
+# **Education**
 
 ### UNIVERSITY OF WATERLOO
 
